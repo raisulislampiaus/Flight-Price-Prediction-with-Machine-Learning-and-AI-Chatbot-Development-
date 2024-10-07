@@ -1,3 +1,6 @@
+Live Link web : https://airline-price-predictor-flask-web.onrender.com/
+
+
 mobile app:
 
 ![Screenshot_2024-10-07-13-45-31-075_com nativegraphql](https://github.com/user-attachments/assets/65995913-fc3d-48ad-8235-95ce795b9da6)
