@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain-groq
+mysql-connector-python
+SQLAlchemy
+streamlit
+python-dotenv
+matplotlib
+openpyxl
